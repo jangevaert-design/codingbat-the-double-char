@@ -8,7 +8,7 @@ doubleChar("AAbb") → "AAAAbbbb"
 doubleChar("Hi-There") → "HHii--TThheerree"
  */
 
-public class CodingBatTheDoubleChar {
+class CodingBatTheDoubleChar {
 
   public static void main(String[] args) {
 
